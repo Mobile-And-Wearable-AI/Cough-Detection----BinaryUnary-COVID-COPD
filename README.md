@@ -1,4 +1,4 @@
-# Cough-Detection----BinaryUnary-COVID-COPD
+# Cough-Detection--BinaryUnary-COVID-COPD
 
 ● Execute the following modeling codes:
    ○ guided model.ipynb
@@ -10,3 +10,5 @@
    ○ Unary model.ipynb
       ■ Feed data to train/test on unary models will create result files named
        “result_uguided.csv”
+
+-- Yugyeong (Kate) Kim
